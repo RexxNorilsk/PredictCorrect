@@ -22,3 +22,5 @@ USERFUNCTIONS_API double func(int id, double* args)
   }
 }
 ```
+Example results:
+![image_2024-04-17_16-52-46](https://github.com/RexxNorilsk/PredictCorrect/assets/36097392/6e7c9ec6-d92f-4158-9d28-cf9ab7d23b62)
